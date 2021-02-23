@@ -13,7 +13,7 @@ jika bahan-bahan di atas sudah terinstall kalian ketikan eksekusi caranya.
 caranya adalah:
 
 # $ pkg install git
-# $ git clone https://github.com/Rusmana-ID/home-termux
+# $ git clone https://github.com/Bambang-Gans/Tampilan-Termux-v1
 # $ cd home-termux
 # $ ls
 # $ python2 run.py
